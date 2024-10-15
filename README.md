@@ -1,17 +1,17 @@
-# CH6 - Canlı Ders 3a
+# CH6 - CanlÄ± Ders 3a
 
-## 1. Metot Çeşitleri
+## 1. Metot Ã‡eÅŸitleri
 
-- Parametre Almayan Değer Döndürmeyen\
+- Parametre Almayan DeÄŸer DÃ¶ndÃ¼rmeyen\
   ```void SaatiYazdir()```
-- Parametre Almayan Değer Döndüren\
+- Parametre Almayan DeÄŸer DÃ¶ndÃ¼ren\
   ```int ZarAt()```
-- Parametre Alan Değer Döndürmeyen\
+- Parametre Alan DeÄŸer DÃ¶ndÃ¼rmeyen\
   ```void TekrarliYazdir(string metin, int kere)```
-- Parametre Alan Değer Döndüren\
+- Parametre Alan DeÄŸer DÃ¶ndÃ¼ren\
   ```string Tersi(string metin)```
 
-## 2. Void Metotlarda return Keyword'ü
+## 2. Void Metotlarda return Keyword'Ã¼
 ```bool AsalMi(int sayi)```
 
 ## 3. Method Overloading
@@ -19,7 +19,7 @@
 ```double Karesi(double sayi)```
 
 ## 4. Named Arguments
-- Math.Pow örneği
+- Math.Pow Ã¶rneÄŸi
 
 ## 5. Optional Arguments
 ```void SaatiYazdir(bool saniyeGizle = false)```
