@@ -11,7 +11,7 @@
 - Parametre Alan Değer Döndüren\
   ```string Tersi(string metin)```
 
-## 2. Void Metotlarda return Keyword'ü
+## 2. Metotlarda return Keyword'ünü Etkili Kullanma
 ```bool AsalMi(int sayi)```
 
 ## 3. Method Overloading
